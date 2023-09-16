@@ -1,4 +1,4 @@
-# Amonaly Detection model
+# Anomaly Detection model
 
 ## Introduction
 This project implements an anomaly detection model using the Isolation Forest algorithm. The goal is to identify anomalies or outliers within a dataset. Anomalies are data points that deviate significantly from the majority of the data. 
